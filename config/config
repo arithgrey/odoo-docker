@@ -1,0 +1,13 @@
+[options]
+addons_path = /src/build/benandfrank,/src/enterprise,/src/optierp,/src/vendor-bills,/src/mexico,/src/server-tools,/src/xunnel-account,/src/odoo/odoo/addons,/src/odoo/addons
+
+db_host = db_odoo
+db_user = odoo
+db_name = db_odoo
+db_password = odoo
+xmlrpc = True
+xmlrpc_port = 8069
+xmlrpcs = True
+
+
+
