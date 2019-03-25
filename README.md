@@ -10,6 +10,6 @@ Exec
 odoo docker container ->  docker exec -it backend_odoo bash 
 
 start 
-./odoo/odoo-bin -u /src/odoo/.config/
+./odoo/odoo-bin -c /odoo/.odoo_config/.config
 
 
